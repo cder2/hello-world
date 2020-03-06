@@ -1,2 +1,5 @@
 # hello-world
-Okay dokey
+
+Hi humans!
+
+This is Joakim here, bla bla bla
